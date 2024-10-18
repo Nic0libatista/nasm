@@ -1,7 +1,11 @@
 # Estudo de comandos NASM
+
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSKcN91zGCwjNYxg_W3Ar0zp-TOxJ4ni-eoQ&s" width=200 heigth=200 >
+</p>
 ## Primeiros comandos
 
-*Programa hello world
+* Programa hello world
 
 ```Assembly
 global_start
